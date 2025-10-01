@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Omar Ahmed Sabri – Machine Learning Engineer passionate about Deep Learning, NLP, Computer Vision, Multimodal AI, and AI Agents.<br>🚀 Experienced with vision transformers, LLMs, RAG systems, and currently building AI Agents with CrawAI.<br>📌 Projects include Multilingual Image Captioning (English, MSA, Egyptian Arabic) with the first Egyptian Arabic Flickr8K dataset.<br>⚡ Interested in efficient fine-tuning, MLOps, and real-world AI applications that connect language, vision, and autonomous agents.
+👋 Hi, I’m Omar Ahmed Sabri – Machine Learning Engineer passionate about Deep Learning, NLP, Computer Vision, Multimodal AI, and AI Agents.<br>🚀 Experienced with vision transformers, LLMs, RAG systems, and currently building AI Agents with CrawAI.<br>⚡ Interested in efficient fine-tuning, MLOps, and real-world AI applications that connect language, vision, and autonomous agents.
 
 
 ## 🌐 Socials:
